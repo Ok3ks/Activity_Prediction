@@ -9,7 +9,7 @@ To carry out this research, The PAMAP2 Physical Activity Monitoring dataset was 
 
 The multivariate nature of the data was compressed by the use of dimensisonality reduction. Dimensionality reduction was performed with the sklearn.decomp library and two techniques were used to model this system.
 
-The Two techniques used to model this dataset include a supervised learning technique which is the logistic regression and the unsupervised learning technique which is the K-Means clustering.
+The techniques utilised by
 
 The main finding from the data exploration is that the heart rate and the duration of activities are not sufficient to accurately predict the physical activity being performed, only in partnership with other sensory measurements can predictions be made to a level of certainty.
 
